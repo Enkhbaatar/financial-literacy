@@ -1,0 +1,2 @@
+https://gempad.app/api/ido
+https://gempad.app/api/trendings
